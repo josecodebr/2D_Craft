@@ -1,0 +1,3 @@
+texturas tamanho 16x16
+
+chair.png
