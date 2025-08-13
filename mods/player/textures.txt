@@ -1,0 +1,4 @@
+Animadas 64x16
+
+player_run.png
+player_stand.png
