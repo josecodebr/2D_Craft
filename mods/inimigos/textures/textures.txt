@@ -1,0 +1,5 @@
+Texturas simp0les 16x16 -Animadas 64x16
+
+cobra_andando.png
+cobra_parado.png
+slime.png
