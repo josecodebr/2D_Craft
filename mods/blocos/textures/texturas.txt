@@ -1,0 +1,17 @@
+Formato texturas .png
+Resolucao 16x16 
+------------------------------
+agua
+Areia
+argila
+carvao
+cascalho
+fundo_gramado
+grama_florida
+lava
+maca
+madeira
+pedra
+pedraelava
+terra
+terras mortas
