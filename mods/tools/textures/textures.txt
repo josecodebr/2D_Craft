@@ -1,0 +1,6 @@
+16x16
+--------------------
+espada.png
+machado.png
+pa.png
+picareta.png
