@@ -1,0 +1,7 @@
+Textures escala 800x600 px
+
+-------------------------
+Mapa.json.png
+mapa_fundo.png
+mapa_moldura.png
+mapa_tiled.png
